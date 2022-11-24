@@ -18,7 +18,7 @@
       <thymeleaf.version>2.0.18</thymeleaf.version>
       <thymeleaf.layout.version>1.0.5</thymeleaf.layout.version>
       <spring.version>3.2.2.RELEASE</spring.version>
-      <hibernate.version>4.1.9.Final</hibernate.version>
+      <hibernate.version>5.3.20.Final</hibernate.version>
 
       <!-- Maven plugins -->
       <maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
